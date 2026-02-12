@@ -1,5 +1,7 @@
 <p align="center">
-❝ 𝚂𝚘 𝚢𝚘𝚞 𝚌𝚞𝚛𝚜𝚎 𝚖𝚎, 𝚊𝚗𝚍 𝚢𝚘𝚞 𝚑𝚒𝚝 𝚖𝚎, 𝚊𝚗𝚍 𝚢𝚘𝚞 𝚌𝚕𝚊𝚠 𝚖𝚎, 𝚝𝚘 𝚋𝚕𝚎𝚎𝚍. T𝚑𝚎𝚗 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚖𝚎, 𝚊𝚗𝚍 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚖𝚎, 𝚊𝚗𝚍 𝚢𝚘𝚞𝚛 𝚠𝚊𝚗𝚝 𝚝𝚞𝚛𝚗𝚜 𝚒𝚗𝚝𝚘 𝚢𝚘𝚞𝚛 𝚗𝚎𝚎𝚍.. ❞
+❝𝗦𝗼 𝘆𝗼𝘂 𝗰𝘂𝗿𝘀𝗲 𝗺𝗲, 𝗮𝗻𝗱 𝘆𝗼𝘂 𝗵𝗶𝘁 𝗺𝗲, 𝗮𝗻𝗱 𝘆𝗼𝘂 𝗰𝗹𝗮𝘄 𝗺𝗲, 𝘁𝗼 𝗯𝗹𝗲𝗲𝗱 
+<p align="center">
+𝗧𝗵𝗲𝗻 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝗺𝗲, 𝗮𝗻𝗱 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝗺𝗲, 𝗮𝗻𝗱 𝘆𝗼𝘂𝗿 𝘄𝗮𝗻𝘁 𝘁𝘂𝗿𝗻𝘀 𝗶𝗻𝘁𝗼 𝘆𝗼𝘂𝗿 𝗻𝗲𝗲𝗱❞
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fffba08f-b99c-41a5-8e16-aeefd9259e5a"width="600" alt="Sublime's custom image"/>
